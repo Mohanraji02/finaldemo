@@ -14,6 +14,10 @@ public class simplepattern
 			System.out.println("mohan");
 		}
 	}
+	class simple2 extends simple1
+	{
+		
+	}
 	
 
 	
